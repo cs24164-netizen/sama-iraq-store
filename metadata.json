@@ -1,0 +1,7 @@
+{
+  "name": "Sama Iraq Store - متجر سما العراق",
+  "description": "A professional e-commerce platform for the Iraqi market, featuring electronics, clothing, and home appliances with a modern RTL design and AI-powered recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
